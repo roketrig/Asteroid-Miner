@@ -1,0 +1,28 @@
+{
+  "name": "com.projectbase.core",
+  "version": "1.0.0",
+  "displayName": "[ProjectBase] Core",
+  "description": "This is the core package for Project Base \n\n Namespace: ProjectBase.Core",
+  "unity": "2021.3",
+  "unityRelease": "35f1",
+  "keywords": [
+    "Namespace: ProjectBase.Core"
+  ],
+  "samples": [
+    {
+      "displayName": "Project Base Initial Setup",
+      "description": "Use these assets for setting up the Project Base Core in your project",
+      "path": "Samples~/Setup"
+    },
+    {
+      "displayName": "Project Base Core Prefabs",
+      "description": "Core Prefabs for Project Base",
+      "path": "Samples~/Prefabs"
+    }
+  ],
+  "author": {
+    "name": "Project Base",
+    "email": "",
+    "url": ""
+  }
+}

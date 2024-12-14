@@ -1,0 +1,23 @@
+{
+  "name": "com.projectbase.ui",
+  "version": "1.0.0",
+  "displayName": "[ProjectBase] UI",
+  "description": "This is a package compitible with ProjectBase \n\n Namespace ProjectBase.UI",
+  "unity": "2021.3",
+  "unityRelease": "35f1",
+  "keywords": [
+    "Namespace: ProjectBase.UI"
+  ],
+  "samples": [
+    {
+      "displayName": "ProjectBase Initial Setup",
+      "description": "Use these assets for setting up the in your project",
+      "path": "Samples~"
+    }
+  ],
+  "author": {
+    "name": "Project Base",
+    "email": "",
+    "url": ""
+  }
+}

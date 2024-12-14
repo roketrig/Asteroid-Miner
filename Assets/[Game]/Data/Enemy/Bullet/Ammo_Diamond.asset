@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3dd6cbc44d3424bbadb96c4aaaacc1, type: 3}
+  m_Name: Ammo_Diamond
+  m_EditorClassIdentifier: 
+  bulletName: Diamond
+  bulletDamage: 70
+  bulletSpeed: 60
+  bulletDuration: 10
+  bulletObject: {fileID: 1395565506770744, guid: 9d5dbdf2d3c3c6b4eadc51123699d237,
+    type: 3}
+  lineRendererPrefab: {fileID: 120411782446683384, guid: 9d5dbdf2d3c3c6b4eadc51123699d237,
+    type: 3}
+  impactEffectPrefab: {fileID: 6419376188160250100, guid: a0127996ff2dab24a81232f589a5f99d,
+    type: 3}

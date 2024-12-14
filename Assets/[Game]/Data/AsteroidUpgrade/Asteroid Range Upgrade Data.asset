@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97957542e5697454395615cc15310778, type: 3}
+  m_Name: Asteroid Range Upgrade Data
+  m_EditorClassIdentifier: 
+  UpgradeName: Range
+  UpgradeDataHolder:
+    Value: 30
+    MoneyPrice: 51200
+    DiamondPrice: 0
+    Level: 10
+  MaxLevel: 10
+  _defaultValue: 20
+  _defaultMoneyPrice: 50
+  _valueIncreaseAmount: 1
+  _moneyPriceIncreaseMultiplier: 2

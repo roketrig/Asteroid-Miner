@@ -1,0 +1,17 @@
+{
+    "name": "projectbase.ui",
+    "rootNamespace": "ProjectBase.UI",
+    "references": [
+        "GUID:aacd2bf64ea38384298dc2e6747049f5",
+        "GUID:eb74095d2fc3ed1488459b2bf9c3e712"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
